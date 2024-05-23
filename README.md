@@ -7,8 +7,12 @@ Facebook bruteforce tool over TOR network
 <img src="https://github.com/7wp81x/FBrutor/blob/main/IMG_20240523_181057.jpg" width="130%" height="130%">
 <br>
 
-## Termux Installation
-
+## Kali/Ubuntu/Termux Installation
+if kali / ubuntu or other linux first:
+```
+sudo su
+```
+else
 ```
 apt update && apt upgrade -y
 ```
