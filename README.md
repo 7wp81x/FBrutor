@@ -11,11 +11,23 @@ Facebook bruteforce tool over TOR network
 
 ```
 apt update && apt upgrade -y
+```
+```
 apt install git python tor torsocks -y
+```
+```
 cd ~/
+```
+```
 git clone https://github.com/7wp81x/FBrutor
-cd ShaMux/
+```
+```
+cd FBrutor/
+```
+```
 pip install -r requirements.txt
+```
+```
 python3 fbrutor.py -h
 ```
 ## Disclaimer!!!
