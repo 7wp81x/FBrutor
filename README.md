@@ -18,7 +18,6 @@ cd ShaMux/
 pip install -r requirements.txt
 python3 fbrutor.py -h
 ```
-## !! Warning !!
-```
+## Disclaimer!!!
+
 This tool is designed for educational and ethical testing purposes only, The author strictly prohibits the use of this tool for any unauthorized or malicious activities. By using this tool, you agree that you are responsible for your actions and compliance with applicable laws and regulations. The author disclaims any liability for damages or legal consequences resulting from misuse of this tool. Use responsibly and ethically.
-```
